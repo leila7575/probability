@@ -13,6 +13,11 @@ The project implements statistical distributions:
 - **Normal**
 - **Binomial**
 
+  
+![3-s2 0-B9780123736956000119-f11-09-9780123736956](https://github.com/user-attachments/assets/13fe8de6-8a74-430a-a751-28f544130b96)
+
+source: https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/probability-distribution
+
 
 
 
